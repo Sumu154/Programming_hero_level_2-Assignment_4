@@ -6,8 +6,8 @@ A simple public library management system built with **React**, **Redux Toolkit 
 
 ## 🚀 Live Demo
 
-- **Frontend:** [your-frontend-link](https://client-side-seven-xi.vercel.app/)
-- **Backend:** [your-backend-link](https://server-side-psi-one.vercel.app/)
+- **Frontend:** [frontend-link](https://client-side-seven-xi.vercel.app/)
+- **Backend:** [backend-link](https://server-side-psi-one.vercel.app/)
 
 ---
 
