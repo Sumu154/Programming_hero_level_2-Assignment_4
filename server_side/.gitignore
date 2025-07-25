@@ -1,1 +1,28 @@
-.vercel
+# Dependency directory
+node_modules/
+
+# Build output
+dist/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.*
+
+# Vercel (if deploying with Vercel)
+.vercel/
+
+# System files
+.DS_Store
+
+# IDE/editor folders
+.vscode/
+.idea/
